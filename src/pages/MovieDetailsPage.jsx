@@ -16,6 +16,7 @@ function MovieDetailsPage() {
   const params = useParams();
   const movies = useSelector(state => state.movies);
 
+  // eslint-disable-next-line
   const dayItem = movies.find(dayObject => {
     const dayHandle = dayObject.day_name.split(',')[0];
 
@@ -24,6 +25,7 @@ function MovieDetailsPage() {
     }
   })
 
+  // eslint-disable-next-line
   const movieItem = dayItem.sessions.find(movie => {
     if (movie.movie_id === params.movieId) {
       return movie;
@@ -79,6 +81,7 @@ function MovieDetailsPage() {
         navigate(`/movies/${params.dayId}`)
       }
     }, 1500);
+    // eslint-disable-next-line
   }, [successMessage, movieItem, navigate])
 
   return (
