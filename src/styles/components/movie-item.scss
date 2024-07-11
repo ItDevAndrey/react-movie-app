@@ -60,6 +60,26 @@
     }
   }
 
+  &:hover:not(.is-active) {
+    @include media(992px) {
+      img {
+        transform: scale(1);
+      }
+
+      .movie-item-image {
+        &::after {
+          background: rgba($color: #000000, $alpha: 0.65);
+        }
+      }
+
+      .movie-item-content {
+        opacity: 1;
+        visibility: visible;
+        transform: translate(-50%, -50%);
+      }
+    }
+  }
+
   &.is-empty {
     pointer-events: none;
 
