@@ -1,0 +1,3884 @@
+[
+  {
+    "day_name": "",
+    "image": "https://www.dailyartmagazine.com/wp-content/uploads/2021/10/7fc01c92836e49db60f6383435cf6c6e-1.jpg",
+    "sessions": [
+      {
+        "movie_name": "The Godfather",
+        "movie_id": "the-godfather",
+        "data": "10:00",
+        "price": 2350,
+        "image": "https://upload.wikimedia.org/wikipedia/ru/c/c3/The_Godfather_The_Game_2006.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Escape from Shawshank",
+        "movie_id": "escape-from-shawshank",
+        "data": "12:00",
+        "price": 2550,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Schindler's List",
+        "movie_id": "schindlers-list",
+        "data": "14:00",
+        "price": 3300,
+        "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Raging bull",
+        "movie_id": "raging-bull",
+        "data": "16:00",
+        "price": 4510,
+        "image": "https://preview.redd.it/raging-bull-1980-675x1000-by-sahin-d%C3%BCzg%C3%BCn-v0-evz02fnlxsjb1.jpg?width=640&crop=smart&auto=webp&s=83d8b4657be4b930f93f0a2616ce07b42eb33e27",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Casablanca",
+        "movie_id": "casablanca",
+        "data": "18:00",
+        "price": 8700,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BJ25KNGcuK6lG5wN2fPuE-S1nvv-9ICtwA&s",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Citizen Kane",
+        "movie_id": "citizen-kane",
+        "data": "20:00",
+        "price": 6500,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/800px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          },
+          {
+            "number": 21,
+            "booked": false
+          },
+          {
+            "number": 22,
+            "booked": false
+          },
+          {
+            "number": 23,
+            "booked": false
+          },
+          {
+            "number": 24,
+            "booked": false
+          },
+          {
+            "number": 25,
+            "booked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day_name": "",
+    "image": "https://c8.alamy.com/comp/RWDB7A/popcorn-and-drink-film-strip-border-cinema-movie-night-icon-in-flat-design-style-bright-background-vector-illustration-RWDB7A.jpg",
+    "sessions": [
+      {
+        "movie_name": "The Godfather",
+        "movie_id": "the-godfather",
+        "data": "10:00",
+        "price": 2350,
+        "image": "https://upload.wikimedia.org/wikipedia/ru/c/c3/The_Godfather_The_Game_2006.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Escape from Shawshank",
+        "movie_id": "escape-from-shawshank",
+        "data": "12:00",
+        "price": 2550,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Schindler's List",
+        "movie_id": "schindlers-list",
+        "data": "14:00",
+        "price": 3300,
+        "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Raging bull",
+        "movie_id": "raging-bull",
+        "data": "16:00",
+        "price": 4510,
+        "image": "https://preview.redd.it/raging-bull-1980-675x1000-by-sahin-d%C3%BCzg%C3%BCn-v0-evz02fnlxsjb1.jpg?width=640&crop=smart&auto=webp&s=83d8b4657be4b930f93f0a2616ce07b42eb33e27",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Casablanca",
+        "movie_id": "casablanca",
+        "data": "18:00",
+        "price": 8700,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BJ25KNGcuK6lG5wN2fPuE-S1nvv-9ICtwA&s",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Citizen Kane",
+        "movie_id": "citizen-kane",
+        "data": "20:00",
+        "price": 6500,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/800px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          },
+          {
+            "number": 21,
+            "booked": false
+          },
+          {
+            "number": 22,
+            "booked": false
+          },
+          {
+            "number": 23,
+            "booked": false
+          },
+          {
+            "number": 24,
+            "booked": false
+          },
+          {
+            "number": 25,
+            "booked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day_name": "",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-night-with-promo-free-popcorn-%26-drinks-design-template-d64fcefb7567aa6b08004f9f7febeb17_screen.jpg?ts=1707924938",
+    "sessions": [
+      {
+        "movie_name": "The Godfather",
+        "movie_id": "the-godfather",
+        "data": "10:00",
+        "price": 2350,
+        "image": "https://upload.wikimedia.org/wikipedia/ru/c/c3/The_Godfather_The_Game_2006.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Escape from Shawshank",
+        "movie_id": "escape-from-shawshank",
+        "data": "12:00",
+        "price": 2550,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Schindler's List",
+        "movie_id": "schindlers-list",
+        "data": "14:00",
+        "price": 3300,
+        "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Raging bull",
+        "movie_id": "raging-bull",
+        "data": "16:00",
+        "price": 4510,
+        "image": "https://preview.redd.it/raging-bull-1980-675x1000-by-sahin-d%C3%BCzg%C3%BCn-v0-evz02fnlxsjb1.jpg?width=640&crop=smart&auto=webp&s=83d8b4657be4b930f93f0a2616ce07b42eb33e27",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Casablanca",
+        "movie_id": "casablanca",
+        "data": "18:00",
+        "price": 8700,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BJ25KNGcuK6lG5wN2fPuE-S1nvv-9ICtwA&s",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Citizen Kane",
+        "movie_id": "citizen-kane",
+        "data": "20:00",
+        "price": 6500,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/800px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          },
+          {
+            "number": 21,
+            "booked": false
+          },
+          {
+            "number": 22,
+            "booked": false
+          },
+          {
+            "number": 23,
+            "booked": false
+          },
+          {
+            "number": 24,
+            "booked": false
+          },
+          {
+            "number": 25,
+            "booked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day_name": "",
+    "image": "https://7a6100b62d2259cdefca-9fc5c5cf0e575fe0b0f3fecca5a0a71a.ssl.cf1.rackcdn.com/article/image/large_27238b74-7755-4731-888a-4a2dbbe320d4.jpg",
+    "sessions": [
+      {
+        "movie_name": "The Godfather",
+        "movie_id": "the-godfather",
+        "data": "10:00",
+        "price": 2350,
+        "image": "https://upload.wikimedia.org/wikipedia/ru/c/c3/The_Godfather_The_Game_2006.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Escape from Shawshank",
+        "movie_id": "escape-from-shawshank",
+        "data": "12:00",
+        "price": 2550,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Schindler's List",
+        "movie_id": "schindlers-list",
+        "data": "14:00",
+        "price": 3300,
+        "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Raging bull",
+        "movie_id": "raging-bull",
+        "data": "16:00",
+        "price": 4510,
+        "image": "https://preview.redd.it/raging-bull-1980-675x1000-by-sahin-d%C3%BCzg%C3%BCn-v0-evz02fnlxsjb1.jpg?width=640&crop=smart&auto=webp&s=83d8b4657be4b930f93f0a2616ce07b42eb33e27",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Casablanca",
+        "movie_id": "casablanca",
+        "data": "18:00",
+        "price": 8700,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BJ25KNGcuK6lG5wN2fPuE-S1nvv-9ICtwA&s",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Citizen Kane",
+        "movie_id": "citizen-kane",
+        "data": "20:00",
+        "price": 6500,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/800px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day_name": "",
+    "image": "https://freepsdflyer.com/wp-content/uploads/2020/06/Movie-Night-Free-Flyer-PSD-Template-FreePSDFlyer-com.jpg",
+    "sessions": [
+      {
+        "movie_name": "The Godfather",
+        "movie_id": "the-godfather",
+        "data": "10:00",
+        "price": 2350,
+        "image": "https://upload.wikimedia.org/wikipedia/ru/c/c3/The_Godfather_The_Game_2006.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Escape from Shawshank",
+        "movie_id": "escape-from-shawshank",
+        "data": "12:00",
+        "price": 2550,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Schindler's List",
+        "movie_id": "schindlers-list",
+        "data": "14:00",
+        "price": 3300,
+        "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Raging bull",
+        "movie_id": "raging-bull",
+        "data": "16:00",
+        "price": 4510,
+        "image": "https://preview.redd.it/raging-bull-1980-675x1000-by-sahin-d%C3%BCzg%C3%BCn-v0-evz02fnlxsjb1.jpg?width=640&crop=smart&auto=webp&s=83d8b4657be4b930f93f0a2616ce07b42eb33e27",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Casablanca",
+        "movie_id": "casablanca",
+        "data": "18:00",
+        "price": 8700,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BJ25KNGcuK6lG5wN2fPuE-S1nvv-9ICtwA&s",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Citizen Kane",
+        "movie_id": "citizen-kane",
+        "data": "20:00",
+        "price": 6500,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/800px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day_name": "",
+    "image": "https://styleflyers.com/wp-content/uploads/2018/10/Movie-Night-PSD-Flyer-Template-372x537.jpg",
+    "sessions": [
+      {
+        "movie_name": "The Godfather",
+        "movie_id": "the-godfather",
+        "data": "10:00",
+        "price": 2350,
+        "image": "https://upload.wikimedia.org/wikipedia/ru/c/c3/The_Godfather_The_Game_2006.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Escape from Shawshank",
+        "movie_id": "escape-from-shawshank",
+        "data": "12:00",
+        "price": 2550,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Schindler's List",
+        "movie_id": "schindlers-list",
+        "data": "14:00",
+        "price": 3300,
+        "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Raging bull",
+        "movie_id": "raging-bull",
+        "data": "16:00",
+        "price": 4510,
+        "image": "https://preview.redd.it/raging-bull-1980-675x1000-by-sahin-d%C3%BCzg%C3%BCn-v0-evz02fnlxsjb1.jpg?width=640&crop=smart&auto=webp&s=83d8b4657be4b930f93f0a2616ce07b42eb33e27",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Casablanca",
+        "movie_id": "casablanca",
+        "data": "18:00",
+        "price": 8700,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BJ25KNGcuK6lG5wN2fPuE-S1nvv-9ICtwA&s",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Citizen Kane",
+        "movie_id": "citizen-kane",
+        "data": "20:00",
+        "price": 6500,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/800px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day_name": "",
+    "image": "https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/classic-movie-night-flyer-template-qosf4u5e6864ab.webp",
+    "sessions": [
+      {
+        "movie_name": "The Godfather",
+        "movie_id": "the-godfather",
+        "data": "10:00",
+        "price": 2350,
+        "image": "https://upload.wikimedia.org/wikipedia/ru/c/c3/The_Godfather_The_Game_2006.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Escape from Shawshank",
+        "movie_id": "escape-from-shawshank",
+        "data": "12:00",
+        "price": 2550,
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Schindler's List",
+        "movie_id": "schindlers-list",
+        "data": "14:00",
+        "price": 3300,
+        "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Raging bull",
+        "movie_id": "raging-bull",
+        "data": "16:00",
+        "price": 4510,
+        "image": "https://preview.redd.it/raging-bull-1980-675x1000-by-sahin-d%C3%BCzg%C3%BCn-v0-evz02fnlxsjb1.jpg?width=640&crop=smart&auto=webp&s=83d8b4657be4b930f93f0a2616ce07b42eb33e27",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Casablanca",
+        "movie_id": "casablanca",
+        "data": "18:00",
+        "price": 8700,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BJ25KNGcuK6lG5wN2fPuE-S1nvv-9ICtwA&s",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      },
+      {
+        "movie_name": "Citizen Kane",
+        "movie_id": "citizen-kane",
+        "data": "20:00",
+        "price": 6500,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/800px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+        "noTickets": false,
+        "seats": [
+          {
+            "number": 1,
+            "booked": false
+          },
+          {
+            "number": 2,
+            "booked": false
+          },
+          {
+            "number": 3,
+            "booked": false
+          },
+          {
+            "number": 4,
+            "booked": false
+          },
+          {
+            "number": 5,
+            "booked": false
+          },
+          {
+            "number": 6,
+            "booked": false
+          },
+          {
+            "number": 7,
+            "booked": false
+          },
+          {
+            "number": 8,
+            "booked": false
+          },
+          {
+            "number": 9,
+            "booked": false
+          },
+          {
+            "number": 10,
+            "booked": false
+          },
+          {
+            "number": 11,
+            "booked": false
+          },
+          {
+            "number": 12,
+            "booked": false
+          },
+          {
+            "number": 13,
+            "booked": false
+          },
+          {
+            "number": 14,
+            "booked": false
+          },
+          {
+            "number": 15,
+            "booked": false
+          },
+          {
+            "number": 16,
+            "booked": false
+          },
+          {
+            "number": 17,
+            "booked": false
+          },
+          {
+            "number": 18,
+            "booked": false
+          },
+          {
+            "number": 19,
+            "booked": false
+          },
+          {
+            "number": 20,
+            "booked": false
+          }
+        ]
+      }
+    ]
+  }
+]

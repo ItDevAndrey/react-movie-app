@@ -1,6 +1,4 @@
 # ReactMovieAPP
-# ReactMovieAPP
-# ReactMovieAPP
-# ReactMovieAPP
-# react-movie-app
-# react-movie-app
+# Step 1st: npm i
+# Step 2nd: npm run start
+# :D

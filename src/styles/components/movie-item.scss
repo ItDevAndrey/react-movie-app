@@ -1,0 +1,86 @@
+@import '../mixins';
+
+.movie-item {
+  color: #000;
+  position: relative;
+  overflow: hidden;
+
+  @include media(992px) {
+    width: 200px;
+  }
+
+  &-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    z-index: 1;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    transition: 1s all;
+    padding: 0 10px;
+
+    div {
+      text-shadow: 5px 5px 5px #000;
+    }
+  }
+
+  &-name {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  &-data {
+    font-size: 18px;
+    margin-top: 5px;
+  }
+
+  &-image {
+    &::after {
+      transition: 1s background;
+    }
+  }
+
+  &:hover,
+  &.is-active {
+    img {
+      transform: scale(1.1);
+    }
+
+    .movie-item-image {
+      &::after {
+        background: transparent;
+      }
+    }
+
+    .movie-item-content {
+      opacity: 0;
+      visibility: hidden;
+      transform: translate(-50%, 160%);
+    }
+  }
+
+  &.is-empty {
+    pointer-events: none;
+
+  }
+
+  &-message {
+    font-size: 16px;
+    font-weight: 900;
+  }
+}
+
+@keyframes movieItemContent {
+  from {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, -50%);
+  }
+
+  to {
+    opacity: 0;
+    visibility: hidden;
+    transform: translate(-50%, 160%);
+  }
+}

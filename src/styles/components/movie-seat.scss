@@ -1,0 +1,99 @@
+@import '../mixins';
+
+.movie-seat {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #fff;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  cursor: pointer;
+  -webkit-transition: background-color .15s ease-in-out, border-color .15s ease-in-out;
+  transition: background-color .15s ease-in-out, border-color .15s ease-in-out;
+  position: relative;
+
+  &:hover {
+    background-color: rgba(149, 200, 244, .3294117647);
+    color: rgba(149, 200, 244, .3294117647);
+  }
+
+  &::before {
+    font-weight: 400;
+    border-radius: 3px;
+    white-space: pre;
+    pointer-events: none;
+    color: #fff;
+    font-size: 14px;
+    background-color: #000;
+    z-index: 1;
+    padding: 3px 6px;
+    transform-origin: top;
+    font-family: sans-serif;
+    content: attr(data-tippy);
+    position: absolute;
+    display: block;
+    margin-top: auto;
+    top: auto;
+    left: 50%;
+    transform: translate(-50%);
+    margin-bottom: 10px;
+    bottom: 100%;
+    transition-delay: 0s;
+    transition: all .15s ease-out;
+    -webkit-clip-path: circle(10% at 50% 100%);
+    clip-path: circle(10% at 50% 100%);
+    visibility: hidden;
+  }
+
+  &::after {
+    pointer-events: none;
+    transform-origin: top;
+    position: absolute;
+    display: block;
+    font-family: sans-serif;
+    content: "";
+    border: 5px solid rgba(0, 0, 0, 0);
+    top: auto;
+    margin-top: auto;
+    left: 50%;
+    bottom: 100%;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    border-top-color: #000;
+    border-bottom-color: rgba(0, 0, 0, 0);
+    -webkit-transition: all .15s ease-out;
+    transition: all .15s ease-out;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+    opacity: 1;
+    visibility: hidden;
+  }
+
+  &:hover {
+    &::before {
+      visibility: visible;
+      -webkit-transition-delay: .15s;
+      transition-delay: .15s;
+      -webkit-clip-path: circle(100% at 50%);
+      clip-path: circle(100% at 50%);
+    }
+
+    &::after {
+      -webkit-transition-delay: .15s;
+      transition-delay: .15s;
+      visibility: visible;
+    }
+  }
+
+  &[data-booked="true"] {
+    border-color: #c8c8c8;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 30 30" fill="%23ffffff" width="25" height="25"%3E%3Cpath d="M10.2,12L6,7.8L7.8,6l4.2,4.2L16.2,6L18,7.8L13.8,12l4.2,4.2L16.2,18L12,13.8L7.8,18 L6,16.2L10.2,12z"/%3E%3C/svg%3E');
+    background-color: #e4e4e4;
+  }
+
+  &.is-selected {
+    background-color: #cdb5bb;
+  }
+}
