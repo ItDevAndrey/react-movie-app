@@ -48,7 +48,7 @@ function App() {
 
   useEffect(() => {
     dispatch(moviesSliceActions.cookiePlaceHandler());
-  }, [])
+  }, [dispatch])
 
   return <RouterProvider router={router} />;
 }
